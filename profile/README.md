@@ -1,4 +1,4 @@
-![Alt text](mario.gif)
+![Alt text](../mario.gif)
 
 <!--
 
